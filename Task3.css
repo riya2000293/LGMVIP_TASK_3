@@ -1,8 +1,8 @@
 table{
 	margin-top: 50px;
 	text-align: center;
-	background: #333;
-	color: #fff;
+	background: rgb(219, 156, 228);
+	color: rgb(10, 10, 10);
 }
 
 #show th, #show td{
